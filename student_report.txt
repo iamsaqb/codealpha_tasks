@@ -1,0 +1,56 @@
+========================================
+Student Name   : Rahul Kumar
+Total Courses  : 3
+
+Course Details
+----------------------------------------
+Course 1 : Grade = 6.00 | Credit = 4
+Course 2 : Grade = 6.00 | Credit = 4
+Course 3 : Grade = 7.00 | Credit = 4
+
+Final CGPA     : 6.33
+Performance    : Average
+========================================
+
+========================================
+Student Name   : Saquib Akhter
+Total Courses  : 3
+
+Course Details
+----------------------------------------
+Course 1 : Grade = 8.00 | Credit = 4
+Course 2 : Grade = 8.00 | Credit = 4
+Course 3 : Grade = 8.00 | Credit = 4
+
+Final CGPA     : 8.00
+Performance    : Good
+========================================
+
+========================================
+Student Name   : Joe Roy
+Total Courses  : 3
+
+Course Details
+----------------------------------------
+Course 1 : Grade = 7.00 | Credit = 4
+Course 2 : Grade = 7.00 | Credit = 4
+Course 3 : Grade = 6.00 | Credit = 4
+
+Final CGPA     : 6.67
+Performance    : Average
+========================================
+
+========================================
+Student Name   : Akash Barya
+Total Courses  : 3
+
+Course Details
+----------------------------------------
+Course 1 : Grade = 6.00 | Credit = 4
+Course 2 : Grade = 7.00 | Credit = 4
+Course 3 : Grade = 7.00 | Credit = 4
+
+Final CGPA     : 6.67
+Performance    : Average
+========================================
+
