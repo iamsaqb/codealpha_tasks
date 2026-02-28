@@ -23,4 +23,4 @@ A simple console-based Bank Management System written in C++.
    ./bank
 ## Screenshot
 
-![Program Output](screenshot.png)
+![Program Output](Screenshot 2026-02-21 012119.png)
