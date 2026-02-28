@@ -1,5 +1,5 @@
 // ======================================================
-// BANK MANAGEMENT SYSTEM (C++)
+// BANK MANAGEMENT SYSTEM (C++)   Author: Saquib Akhter
 // ======================================================
 // Features:
 // 1. Create Account
