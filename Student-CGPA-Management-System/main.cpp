@@ -1,5 +1,5 @@
 // ======================================================
-// STUDENT CGPA MANAGEMENT SYSTEM (C++)
+// STUDENT CGPA MANAGEMENT SYSTEM (C++)  Author: Saquib Akhter
 // ======================================================
 // Features:
 // 1. Add Student
