@@ -1,5 +1,5 @@
 # codealpha_tasks
-CPP Intern at CodeApha.
+C++ Intern at CodeApha.
 This repository contains all tasks submitted during my internship at CodeAlpha.
 
 ## Projects
